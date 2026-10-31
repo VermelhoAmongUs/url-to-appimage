@@ -1,6 +1,8 @@
 # url-to-appimage
+
 how to compile a URL to .AppImage:
 
+```bash
 gh repo clone VermelhoAmongUs/url-to-appimage
 cd url-to-appimage
 chmod +x ./url-to-appimage.sh
@@ -12,3 +14,4 @@ npm run build
 cd dist
 chmod +x ./Exemple-1.0.0.AppImage
 ./Exemple-1.0.0.AppImage
+```
