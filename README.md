@@ -16,7 +16,7 @@ chmod +x ./Exemple-1.0.0.AppImage
 ./Exemple-1.0.0.AppImage
 ```
 
-URLs pre-compiled:
+URLs pre-compiled to .AppImage:
 
 [WhatsApp (web.whatsapp.com)](https://github.com/VermelhoAmongUs/url-to-appimage/releases/tag/whatsapp) \
 [Discord (discord.com/app)](https://github.com/VermelhoAmongUs/url-to-appimage/releases/tag/discord)
