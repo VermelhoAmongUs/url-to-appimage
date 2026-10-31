@@ -20,3 +20,10 @@ URLs pre-compiled to .AppImage:
 
 [WhatsApp (web.whatsapp.com)](https://github.com/VermelhoAmongUs/url-to-appimage/releases/tag/whatsapp) \
 [Discord (discord.com/app)](https://github.com/VermelhoAmongUs/url-to-appimage/releases/tag/discord)
+
+how to see a version of browser:
+
+Ctrl + Shift + I
+Console
+allow pasting
+navigator.userAgent
