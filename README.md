@@ -23,7 +23,7 @@ URLs pre-compiled to .AppImage:
 
 how to see a version of browser:
 
-Ctrl + Shift + I
-Console
-allow pasting
+Ctrl + Shift + I \
+Console \
+allow pasting \
 navigator.userAgent
